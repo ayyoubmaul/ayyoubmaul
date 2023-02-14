@@ -24,4 +24,6 @@
       AND code = 'Make me fun'
     ```
 
+### Me in Numbers
+
 [![Ayyoub's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayyoubmaul)](https://github.com/anuraghazra/github-readme-stats)
