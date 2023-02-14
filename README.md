@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+- 📫 How to reach me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 📫 How to reach me: ...
+    [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayyoub-maulana)
 - ⚡ Fun fact: 
     ```
     SELECT
