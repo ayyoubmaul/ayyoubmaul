@@ -9,7 +9,8 @@
 
 - 📫 How to reach me:
 
-    [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayyoub-maulana)
+    <a href="https://www.linkedin.com/in/ayyoub-maulana/"><img align="left"     src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="icon | LinkedIn" width="21px"/></a> <a href="https://medium.com/@ayyoubmaulana"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="icon | Medium" width="21px"/></a> Let's connect :)
+    
 - ⚡ Fun fact: 
     ```
     SELECT
