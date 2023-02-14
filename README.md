@@ -1,5 +1,9 @@
-<img src=”https://user-images.githubusercontent.com/74217351/218720639-883276b8-1133-4c84-99b7-2e724c6f7876.png" alt=”my banner”>
+<p align="center">
 
+<img src="https://user-images.githubusercontent.com/74217351/218720639-883276b8-1133-4c84-99b7-2e724c6f7876.png" alt="my banner">
+
+</p>
+                                                                                                                                         
 
 ### Hi there 👋
 
