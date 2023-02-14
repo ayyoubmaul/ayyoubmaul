@@ -14,7 +14,7 @@ Here are some ideas to get you started:
       END AS my_life,
       code
     FROM
-      `me.story`
+      me.story
     WHERE TRUE
       AND code = 'Make me fun'
     ```
